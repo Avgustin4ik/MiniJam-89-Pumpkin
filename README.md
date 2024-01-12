@@ -1,5 +1,7 @@
 # MiniJam-89-Pumpkin
  72 hours game jam
+
+ ![Pumpkin-Showcase](https://github.com/Avgustin4ik/MiniJam-89-Pumpkin/assets/32969119/4c826532-41ad-4d96-b137-929aab4d604b)
  
  ## eng
 
